@@ -1,5 +1,3 @@
 console.log('Hello World!');
 
-console.error('Error');
-
-console.log('Hi 3!');
+console.log('Hi Bakhyt!');
